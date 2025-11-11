@@ -6,3 +6,4 @@ seaborn
 tqdm
 statsmodels
 tensorflow
+xgboost
