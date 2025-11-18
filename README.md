@@ -198,6 +198,6 @@ These approaches aim to complement the existing baselines, providing more precis
 ---
 
 ## Members
-- [Grace Gosselin]()
+- [Grace Gosselin](https://youtu.be/6hKYuRwde4o)
 - [Jairo Aguirre](https://drive.google.com/drive/folders/1gbxQMRF3WU2SmQEaFucQIlizFyP4U5R9?usp=drive_link)
 - [Sumit Giri]()
